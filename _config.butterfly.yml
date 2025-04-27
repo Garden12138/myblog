@@ -101,6 +101,7 @@ cover:
   # When cover is not set, the default cover is displayed
   default_cover:
     # - xxx.jpg
+    - /img/saber-bg2.png
 
 # Replace Broken Images
 error_img:
@@ -180,7 +181,7 @@ index_layout: 3
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 2
   # If you set method to 2 or 3, the length need to config
   length: 500
 
