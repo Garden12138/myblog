@@ -3,6 +3,7 @@ title: Use docker deploy elasticjob-lite
 date: 2025-04-30 10:23:37
 tags: elasticjob
 description: ElasticJob-Lite是面向互联网生态和海量任务的分布式调度解决方案。区别于传统定时任务，它设计的初衷是为了面对高并发以及复杂的业务，即使是业务量大，服务器多的时也能做好任务调度，尽可能的利用服务器的资源。
+cover: /img/post_covers/131379871_p2.png
 ---
 
 ## 使用 docker 部署 elasticjob-lite

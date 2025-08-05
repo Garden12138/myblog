@@ -3,6 +3,7 @@ title: Dive into Dockerfile
 date: 2025-04-29 10:36:03
 tags: dockerfile
 description: Dockerfile是用于构建Docker镜像的文本文件，包含了一系列指令和配置，用于定义容器镜像的构建规则和运行环境。Dockerfile可以帮助开发者快速地创建、部署和管理应用程序，且可自动化部署过程，保证部署的一致性和可重复性。
+cover: /img/post_covers/131709564_p0.jpg
 ---
 
 ## 镜像构建原理

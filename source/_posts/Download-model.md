@@ -3,7 +3,7 @@ title: Download model
 date: 2025-07-15 17:21:57
 tags: ai
 description: 下载模型，使开发者可在本地环境微调或运行推理模型。
-cover: /img/post_covers/IMG_9214.JPG
+cover: /img/post_covers/133049767_p1.png
 ---
 
 ## 下载模型

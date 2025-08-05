@@ -3,7 +3,7 @@ title: Use nvm to manage nodejs
 date: 2025-08-05 10:35:46
 tags: nodejs
 description: nvm（Node Version Manager）是 Node.js的版本管理工具，允许你在同一台机器上安装、切换和运行多个Node.js版本，不同项目可使用不同环境，解决版本冲突问题。
-cover: /img/post_covers/IMG_9214.JPG
+cover: /img/post_covers/133049767_p0.png
 ---
 
 ## 使用nvm管理Node.js

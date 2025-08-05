@@ -3,6 +3,7 @@ title: Linux common commands
 date: 2025-05-19 10:33:44
 tags: Linux
 description: Linux常用命令是通过终端输入的一系列指令，用于高效管理文件、系统配置、进程控制及网络操作等核心任务。
+cover: /img/post_covers/133049767_p3.png
 ---
 
 ## 常用命令

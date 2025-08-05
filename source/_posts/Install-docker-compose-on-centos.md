@@ -3,6 +3,7 @@ title: Install docker-compose on centos
 date: 2025-04-28 09:29:17
 tags: docker compose
 description: Docker Compose是用于定义和运行多容器Docker应用程序的工具。在Compose中，可以使用YAML文件来配置应用程序的服务。 然后运行一条命令，即可从配置中创建并启动所有服务。 使用Compose可在一台主计算机上方便地协调多个容器映像。
+cover: /img/post_covers/131861120_p0.jpg
 ---
 
 ## 在 Centos 上 安装 docker-compose

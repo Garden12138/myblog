@@ -3,7 +3,7 @@ title: DB-GPT usage
 date: 2025-06-30 09:19:44
 tags: ai
 description: DB-GPT是一个开源的AI原生数据应用开发框架，目的是构建大模型领域的基础设施，通过开发多模型管理(SMMF)、Text2SQL效果优化、RAG框架以及优化、Multi-Agents框架协作、AWEL(智能体工作流编排)等多种技术能力，让围绕数据库构建大模型应用更简单，更方便。
-cover: /img/post_covers/IMG_9214.JPG
+cover: /img/post_covers/133049767_p2.png
 ---
 
 ## DB-GPT 使用说明

@@ -3,6 +3,7 @@ title: Install dokcer on centos
 date: 2025-04-27 10:23:56
 tags: docker
 description: Docker是一个开源的平台软件，用于开发应用、交付应用和运行应用。Docker允许用户将基础设施中的应用单独分割出来，形成更小的颗粒，从而提高交付软件的速度。 
+cover: /img/post_covers/131820905_p0.jpg
 ---
 
 ## 在 Centos 上安装 docker

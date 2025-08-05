@@ -3,6 +3,7 @@ title: Use docker-compose deploy apisix
 date: 2025-04-24 16:57:28
 tags: apisix
 description: APISIX是一个动态、实时、高性能的云原生AP网关，提供了负载均衡、动态上游、灰度发布、服务熔断、身份认证、可观测性等丰富的流量管理功能。
+cover: /img/post_covers/130963205_p0.jpg
 ---
 
 ## 使用 docker-compose 部署 apisix

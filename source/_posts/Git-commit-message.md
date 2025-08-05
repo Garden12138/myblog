@@ -3,6 +3,7 @@ title: Git commit message
 date: 2025-05-08 10:49:22
 tags: git
 description: 在使用Git进行代码提交时，采用规范、清晰、易于团队协作和后续维护的提交信息书写方式。
+cover: /img/post_covers/132160012_p0.jpg
 ---
 
 ## Git commit message

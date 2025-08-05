@@ -3,6 +3,7 @@ title: Use docker-compose deploy harbor
 date: 2025-05-07 10:19:20
 tags: harbor
 description: Harbor是一款开源的企业级开源镜像仓库软件，在镜像管理和存储方面提供了一种高效、安全、可靠的方式。
+cover: /img/post_covers/131379871_p0.png
 ---
 
 ## 使用 docker-compose 部署 harbor

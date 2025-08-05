@@ -3,6 +3,7 @@ title: Git
 date: 2025-05-06 09:36:26
 tags: git
 description: Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。
+cover: /img/post_covers/131379871_p1.png
 ---
 
 ## Git

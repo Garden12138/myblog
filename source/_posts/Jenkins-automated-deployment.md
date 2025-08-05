@@ -3,6 +3,7 @@ title: Jenkins automated deployment
 date: 2025-05-16 11:34:27
 tags: jenkins
 description: Jenkins是一款开源CI&CD软件，用于自动化各种任务，包括构建、测试和部署软件。
+cover: /img/post_covers/132576315_p0.jpg
 ---
 
 ## Jenkins自动化部署
