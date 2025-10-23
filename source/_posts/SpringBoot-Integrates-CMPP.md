@@ -1,8 +1,7 @@
 ---
-title: CMPP usage
-date: 2025-10-23 09:28:02
-tags: cmpp
-description: 详细介绍CMPP3.0协议的使用方法，包括协议通信流程、SMSGate框架集成、SpringBoot服务端实现等，涵盖短信提交、状态报告、链路检测等核心功能，提供完整的Java代码示例。
+title: SpringBoot Integrates CMPP
+date: 2025-10-23 10:11:08
+description: 详细介绍如何在SpringBoot项目中集成CMPP3.0协议，使用SMSGate框架实现短信服务端，包括协议通信流程、服务端配置、消息处理、子节点管理等完整实现方案，提供详细的Java代码示例。
 cover: /img/post_covers/Google_AI_Studio_2025-10-23T01_31_34.990Z
 ---
 
