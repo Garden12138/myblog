@@ -2,7 +2,7 @@
 title: Nano Banana usage in e-commerce
 date: 2025-11-05 09:25:08
 tags: ai
-description: 
+description: 介绍 Google Nano Banana (Gemini 2.5 Flash Image) 在电商场景中的应用，涵盖商品换背景、模特试装、饰品替换、虚拟试妆、高清化处理等9大实用案例，通过 AI 图像编辑提升电商运营效率和营销效果。
 cover: /img/post_covers/Google_AI_Studio_2025-11-05T01_35_10.600Z.png
 ---
 
