@@ -1,7 +1,7 @@
 ---
 title: Using the dify subworkflow
 date: 2026-02-10 10:28:15
-tags: ai
+tags: dify
 description: 介绍如何在 dify 中将复杂工作流拆分为子工作流并发布为工具复用，以个人助手调用发票识别子工作流为例，涵盖子工作流创建、发布、主工作流中工具节点配置与运行测试的完整实践流程。
 cover: /img/post_covers/Gemini_Generated_Image_23xz5423xz5423xz.png
 ---
